@@ -1,0 +1,23 @@
+
+---
+
+### **3. 27_LogDriftMatrix**  
+**Description:**  
+Analyzes logs for repetition drift, burst timing, and keyword-based pattern surges.
+
+#### **README.md**
+```markdown
+# LogDriftMatrix - Repetition and Drift Log Analyzer
+
+LogDriftMatrix identifies frequency changes, repetition breakdowns, and drift conditions in system and app logs.
+
+## Features
+- Drift pattern detection  
+- Timestamp clustering  
+- Keyword filtering  
+
+## Usage
+```bash
+git clone https://github.com/your-username/27_LogDriftMatrix.git
+cd 27_LogDriftMatrix
+python analyze.py
